@@ -24,5 +24,5 @@ La aplicacion tiene las siguientes opciones:
 ## Recursos
 
 - [file-system](https://www.npmjs.com/package/file-system)
-- [NodeJS](https://nodejs.org/es/)
+- [nodejs](https://nodejs.org/es/)
 - [yargs](https://yargs.js.org/)
